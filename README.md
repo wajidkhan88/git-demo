@@ -9,3 +9,10 @@ fd
 f'
 d'f
 dfd
+d
+df
+d
+fd
+safd
+f
+df
